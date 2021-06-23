@@ -26,7 +26,7 @@ Propose mitigation techniques against DoERS without  dropping service usability,
 ### *RPC*
 
 ***Remote Procedure Call*** service that translates the clients’ requests to cryptocurrency transactions or
-queries to a blockchain P2P network![1](\img\1.png)
+queries to a blockchain P2P network![1](/img/1.png)
 
 #### category
 
@@ -144,7 +144,7 @@ Forth, send getBlockNumber RPC requests, if  anomaly detected (one smaller than 
 
 **Results**
 
-![2](\img\2.png)
+![2](/img/2.png)
 
 - Type i) No load balancing 
 - Type ii-a) No load balancing detected when RPC queries are sent with the same API key and from different IPs
